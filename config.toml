@@ -1,0 +1,27 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Tingling Neurons'
+theme = 'PaperMod'
+
+
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Blog'
+  pre = "<i class='fa fa-heart'></i>"
+  url = ''
+  weight = 20
+
+[[menu.main]]
+  identifier = 'Get in touch'
+  name = 'Get in touch'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/get-in-touch/'
+  weight = 30
