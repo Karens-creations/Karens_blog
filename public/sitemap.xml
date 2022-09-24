@@ -2,14 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2022-09-24T13:42:40+02:00</lastmod>
+    <loc>/posts/hello-world/</loc>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-24T13:42:40+02:00</lastmod>
+    <loc>/posts/how-to-ace-your-okrs/</loc>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-09-24T13:42:40+02:00</lastmod>
+    <loc>/posts/goals/</loc>
+  </url><url>
+    <loc>/posts/finding-motivation/</loc>
+  </url><url>
+    <loc>/posts/brain-fog/</loc>
+  </url><url>
+    <loc>/posts/negotiation/</loc>
+  </url><url>
+    <loc>/posts/neurophysiology-of-learning/</loc>
+  </url><url>
+    <loc>/posts/the-midnight-library-regretting-life-decisions/</loc>
+  </url><url>
+    <loc>/posts/productivity-hacks/</loc>
+  </url><url>
+    <loc>/posts/building-the-right-skills/</loc>
+  </url><url>
+    <loc>/posts/19-tips-for-better-sleep/</loc>
+  </url><url>
+    <loc>/posts/how-to-slice-the-elephant/</loc>
+  </url><url>
+    <loc>/posts/how-i-wrote-my-bachelor-thesis-minimum-input-maximum-output/</loc>
   </url><url>
     <loc>/about/</loc>
   </url><url>
@@ -19,6 +36,10 @@
   </url><url>
     <loc>/Get-in-touch/</loc>
   </url><url>
+    <loc>/posts/</loc>
+  </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
   </url>
 </urlset>
