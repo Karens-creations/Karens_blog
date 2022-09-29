@@ -1,5 +1,5 @@
 
-baseURL = "/"
+baseURL = ""
 theme = "LoveIt"
 title = "Tingling Neurons"
 
@@ -54,14 +54,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "About"
     url = "/about/"
     title = "About"
-  [[menu.main]]
-    weight = 3
-    identifier = "get_in_touch"
-    pre = ""
-    post = ""
-    name = "Get in touch"
-    url = "/get-in-touch/"
-    title = "Get in touch"
 
 [params]
   # site default theme ["auto", "light", "dark"]
