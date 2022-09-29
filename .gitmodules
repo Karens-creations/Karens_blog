@@ -1,3 +1,12 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/chalk"]
+	path = themes/chalk
+	url = https://github.com/ph-ph/chalk.git
+[submodule "gruvhugo"]
+	path = gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
