@@ -43,7 +43,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Blog"
-    url = "/blog/"
+    url = ""
     # title will be shown when you hover on this menu link
     title = "Blog"
   [[menu.main]]
@@ -174,7 +174,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "Ich.jpeg"
+      avatarURL = "Ich.JPEG"
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
