@@ -91,7 +91,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # URL of the LOGO
       logo = ""
       # title name
-      name = "Tingling Neurons"
+      name = "Karen's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -114,8 +114,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     since = 2021
     # ICP info only in China (HTML format is supported)
     icp = ""
-    # license info (HTML format is supported)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   #  Section (all posts) page config
   [params.section]
