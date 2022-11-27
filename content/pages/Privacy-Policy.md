@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: "Privacy Policy"
-url: "/privacy-policy/"
+url: "/pages/privacy-policy/"
 summary: Privacy Policy
 ---
 
