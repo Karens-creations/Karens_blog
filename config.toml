@@ -54,14 +54,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "About"
     url = "/about/"
     title = "About"
+
   [[menu.main]]
-    weight = 3
-    identifier = "Get-in-touch"
+    weight = 4
+    identifier = "My-Principles"
     pre = ""
     post = ""
-    name = "Get in touch"
-    url = "/get-in-touch/"
-    title = "Get in touch"
+    name = "My Principles"
+    url = "/myprinciples/"
+    title = "My Principles"
 
 [params]
   # site default theme ["auto", "light", "dark"]

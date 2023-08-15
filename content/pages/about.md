@@ -1,10 +1,8 @@
 ---
 title: "About"
-layout: "about"
 url: "/about/"
 summary: about
 ---
-
 # Hello Stranger
 
 My name ist Karen. I am passionate about solving problems, according to the motto “Everything is figureoutable.” 
