@@ -21,4 +21,4 @@ Here are 6 true and 1 false fact about me. Can you find the dud?
 6. I climbed a mountain, that's 6088m high. 
 7. I can do a split.
 
-If you are interested in education / learning, personal development, productivity (Who is following all those productivity influencers? 🙋‍♀️ 🙈 ), system thinking, philosophical questions, product management, the big problems of the world (and how to solve them), mountaineering or just want to chat, let's have a chat!
+If you are interested in pruduct management, personal development, productivity (Who is following all those productivity influencers? 🙋‍♀️ 🙈 ), system thinking, sleep / health / fitness, philosophical questions, the big problems of the world (and how to solve them), or mountaineering, let's have a chat!
