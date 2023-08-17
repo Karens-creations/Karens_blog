@@ -14,7 +14,7 @@ I like to think of myself as a ‘child of the world’. I love traveling, conne
 
 Here are 6 true and 1 false fact about me. Can you find the dud?
 1. I ran a marathon.
-2. I love talking about sleep, ofter it is my go to small talk topic. 
+2. I love talking about sleep, often it is my go to small talk topic. 
 3. I have been to >36 countries.
 4. At one point in my life I spoke 5 languages fluently.
 5. I am already officially in retirement (I am 27 now). 
