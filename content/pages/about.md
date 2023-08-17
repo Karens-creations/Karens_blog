@@ -12,4 +12,13 @@ As for now, my professional career was focused on improving physical and mental 
 
 I like to think of myself as a ‘child of the world’. I love traveling, connecting to people from all around the world, doing sports (especially mountaineering), spending time with myself and reading. I get excited easily, so I am always eager to keep learning and try new stuff. 
 
+Here are 6 true and 1 false fact about me. Can you find the dud?
+1. I ran a marathon.
+2. I love talking about sleep, ofter it is my go to small talk topic. 
+3. I have been to >36 countries.
+4. At one point in my life I spoke 5 languages fluently.
+5. I am already officially in retirement (I am 27 now). 
+6. I climbed a mountain, that's 6088m high. 
+7. I can do a split.
+
 If you are interested in education / learning, personal development, productivity (Who is following all those productivity influencers? 🙋‍♀️ 🙈 ), system thinking, philosophical questions, product management, the big problems of the world (and how to solve them), mountaineering or just want to chat, let's have a chat!
