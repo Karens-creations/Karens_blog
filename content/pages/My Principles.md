@@ -1,5 +1,5 @@
 ---
-title: "My Principles"
+
 layout: My Principles
 url: "/myprinciples/"
 summary: My Principles 

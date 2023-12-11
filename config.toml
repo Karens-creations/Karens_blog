@@ -64,6 +64,25 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/myprinciples/"
     title = "My Principles"
 
+  [[menu.main]]
+    weight = 5
+    identifier = "My Portfolio"
+    pre = ""
+    post = ""
+    name = "My Portfolio"
+    url = "/portfolio/"
+    title = "Portfolio"
+  
+  [[menu.main]]
+    weight = 6
+    identifier = "Newsletter"
+    pre = ""
+    post = ""
+    name = "Newsletter"
+    url = "/newsletter/"
+    title = "newsletter"
+
+
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
